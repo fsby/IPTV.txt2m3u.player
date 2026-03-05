@@ -121,7 +121,6 @@ http://36.136.38.87:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林卫视高清" group-title="卫视",吉林卫视高清
 http://111.8.242.103:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.8.242.124:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视
 http://111.8.242.103:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.8.242.124:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
